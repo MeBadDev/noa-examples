@@ -19,9 +19,9 @@
 
 
 var path = require('path')
-var buildPath = path.resolve('../../docs/hello-world')
+var buildPath = path.resolve('../docs/hello-world')
 var entryPath = path.resolve('./index.js')
-var babylonPath = path.resolve('../../node_modules/@babylonjs')
+var babylonPath = path.resolve('../node_modules/@babylonjs')
 
 
 
